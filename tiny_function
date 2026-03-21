@@ -1,0 +1,7 @@
+#!/bin/bash
+
+say_hi() {
+    echo "Hi! I am a funtion!"
+ }
+
+say_hi

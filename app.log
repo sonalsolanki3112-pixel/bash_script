@@ -1,0 +1,6 @@
+INFO: server started
+INFO: connected to database
+ERROR: connection timeout
+INFO: retrying connection
+ERROR: disk space low
+INFO: backup completed
